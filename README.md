@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Balaji
 - 👀 I’m interested in Web development
 
-- 📫 How to reach me @gbalaji21022001@gmail.com
+- 📫 How to reach me @thirupathibalaji091@gmail.com
 
 
 <!---
